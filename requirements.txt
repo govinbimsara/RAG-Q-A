@@ -1,0 +1,14 @@
+langchain
+python-dotenv
+ipykernel
+langchain_community
+pypdf
+pymupdf
+langchain-text-splitters
+lxml
+faiss-cpu
+langchain-ollama
+langchain_groq
+langchain_core
+langchain-chroma
+langchain-huggingface
