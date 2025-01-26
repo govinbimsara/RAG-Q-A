@@ -6,6 +6,7 @@ pypdf
 pymupdf
 langchain-text-splitters
 lxml
+streamlit
 faiss-cpu
 langchain-ollama
 langchain_groq
